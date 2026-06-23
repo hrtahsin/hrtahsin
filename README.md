@@ -30,6 +30,5 @@ using Python, Pandas, Matplotlib, and ipywidgets.
 
 ## Currently Building
 
-- API monitoring and reliability tooling
 - Event-driven backend systems
 - Cloud deployment and observability skills
